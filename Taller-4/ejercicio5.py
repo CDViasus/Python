@@ -10,6 +10,6 @@ if (num1<=33 and num1>0):
         "right_shift": [num1>>2,num2>>2],
         "left_shift": [num1<<5,num2<<5],
         }
-        print(bit_a_bit)
+        print("Operadores Bitwise", bit_a_bit)
 else:
     print("El numero no esta dentro del rango de 0 a 33")

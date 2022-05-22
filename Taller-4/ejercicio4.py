@@ -1,5 +1,5 @@
 x = 19 #edad
-y = 10 #primeros digitos del documento de identidad
+y = 10 #primeros digitos documento de identidad
 aritmeticos =  {
     "suma": x+y, 
     "resta": x-y,
@@ -10,4 +10,4 @@ aritmeticos =  {
     "entera": x//y, #division entera
     "negacion": x!=y
     }
-print(aritmeticos)
+print("Operadores Aritmeticos", aritmeticos)
